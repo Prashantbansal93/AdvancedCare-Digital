@@ -1,4 +1,4 @@
-# ❤️ HeartCare – Cardiac Care Appointment Booking System (MERN)
+# ❤️ (AdvacnedCare-Digital) HeartCare – Cardiac Care Appointment Booking System (MERN)
 
 A full-stack healthcare appointment booking platform (branded **Advanced Cardiac Care**) built with **React (Vite)**, **Node.js**, **Express**, and **MongoDB**, featuring slot-based scheduling, JWT authentication, Stripe payments, and a dedicated admin panel.
 
