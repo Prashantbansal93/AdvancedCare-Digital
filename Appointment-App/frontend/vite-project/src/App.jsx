@@ -22,7 +22,7 @@ import ServicePage from "./components/helper/ServicePage";
 import ResetPassword from "./components/Auth/ResetPassword";
 import ForgotPassword from "./components/Auth/ForgotPassword";
 import ScrollToTop from "./components/helper/ScrollToTop";
-
+import FaqAssistant from "./components/FaqAssistant";
 
 
 function App() {
@@ -30,6 +30,7 @@ function App() {
     <BrowserRouter>
       <ScrollToTop />
       <Navbar />
+      <FaqAssistant /> 
 
       <Routes>
         <Route path="/" element={<HomePage />} />
